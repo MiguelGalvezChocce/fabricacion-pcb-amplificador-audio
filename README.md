@@ -1,6 +1,10 @@
 # fabricacion-pcb-amplificador-audio
 
-Este proyecto es un sistema de amplificación de audio estéreo de 15W + 15W que diseñé de forma modular. El circuito está dividido en 3 placas principales para evitar ruidos y facilitar el armado:
+Este proyecto consiste en el diseño, ruteado y manufactura modular de un sistema de amplificación de audio estéreo de 15W + 15W. 
+
+Fue desarrollado de forma colaborativa como **proyecto grupal por un equipo de 5 estudiantes de Ingeniería Electrónica de la Pontificia Universidad Católica del Perú (PUCP)** para el curso de Fabricación de Equipos Electrónicos.
+
+Para optimizar el rendimiento térmico, mitigar el ruido electromagnético (EMI) y facilitar el ensamblaje en el laboratorio, el sistema se dividió en 3 bloques de hardware independientes distribuidos en este repositorio:
 
 ##  Las 3 Placas del Proyecto
 
