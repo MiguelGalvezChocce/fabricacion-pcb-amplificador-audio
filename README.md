@@ -27,7 +27,7 @@ El proyecto incluye la documentación técnica completa para la fabricación de 
 * **[1_Placa_Fuente](./1_Placa_Fuente):** Diagramas, archivos de diseño y Gerber de la etapa de alimentación.
 * **[2_Placa_Seleccion](./2_Placa_Seleccion):** Archivos fuente y Gerber del conmutador de entradas (Bluetooth/Jack/MicroSD).
 * **[3_Placa_Amplificador](./3_Placa_Amplificador):** Planos y Gerber del módulo amplificador Clase AB.
-* ** Planos_Fabricacion_y_Ensamblaje:** Carpeta que contiene la planimetría de ingeniería del equipo:
+* **Planos_Fabricacion_y_Ensamblaje:** Carpeta que contiene la planimetría de ingeniería del equipo:
   * **Plano de Conexiones:** Diagrama general de interconexión y cableado entre los 3 módulos de hardware.
   * **Plano de Ensamblaje:** Guía visual con la ubicación exacta (Silkscreen/Top Overlay) de cada componente en las placas para el proceso de soldadura.
   * **Plano Explosivo:** Vista despiezada del hardware que detalla el montaje físico, acoplamiento de las placas y fijación mecánica del sistema.
