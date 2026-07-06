@@ -19,4 +19,4 @@ Este proyecto es un sistema de amplificación de audio estéreo de 15W + 15W que
 ##  Carpetas del Repositorio
 * `Planos/` -> Diagramas esquemáticos en PDF.
 * `Gerber/` -> Archivos listos para fabricación.
-* `Fotos/` -> Capturas en 3D del software y fotos de las placas reales.
+* `Fotos/` -> Capturas en 3D del software.
